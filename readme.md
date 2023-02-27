@@ -11,3 +11,19 @@ to exit edior :
 
 to check whether conig are set :
 git cong -list
+
+to see save history
+git log
+
+to ignore certain files we create ,gitignore file and add name of the file to them
+g
+to see all remote sie:
+git remote
+
+to upload our local code to remote:
+git remote add origin https://github.com/ykwrlm/ssss.git 
+
+To upload our local code to remote:
+git push origin master
+
+git is from existing local repo
