@@ -41,3 +41,12 @@ git add .     -red to green changed
 
 to switch
 git checkout master
+
+html
+automtic file generated
+! + enter
+
+automatic
+p + tab
+
+html comments <!-- tt -->
