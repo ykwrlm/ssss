@@ -36,4 +36,8 @@ git branch
 To checkout branch:
 git checkout "html-foundation"
 
-To
+To add all files
+git add .     -red to green changed
+
+to switch
+git checkout master
