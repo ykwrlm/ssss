@@ -26,4 +26,15 @@ git remote add origin https://github.com/ykwrlm/ssss.git
 To upload our local code to remote:
 git push origin master
 
-git is from existing local repo
+to create branch 
+git branch "html-foundation"
+
+to list branch
+git branch
+
+To checkout branch
+git checkout "html-foundation"
+
+to add all files
+git add .
+
