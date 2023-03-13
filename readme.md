@@ -27,6 +27,7 @@ git remote add origin https://github.com/ykwrlm/ssss.git
 To upload our local code to remote:
 git push origin master
 
+
 to create branch
 git branch "html-foundation"
 
@@ -50,3 +51,19 @@ automatic
 p + tab
 
 html comments <!-- tt --git>
+=======
+to create branch 
+git branch "html-foundation"
+
+to list branch
+git branch
+brr
+To checkout branch
+git checkout "html-foundation"
+
+to add all files
+git add .
+
+git config 
+
+
