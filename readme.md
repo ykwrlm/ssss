@@ -38,3 +38,5 @@ git checkout "html-foundation"
 to add all files
 git add .
 
+git config 
+
